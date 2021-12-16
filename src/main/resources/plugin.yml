@@ -1,4 +1,4 @@
-name: Cosmetics
+name: Q-Cosmetics
 version: ${project.version}
 main: com.ilm9001.cosmetics.Cosmetics
 api-version: 1.18
